@@ -1,0 +1,10 @@
+name: "500SW BarBot"
+description: "Front page for the 500SW BarBot"
+author: "t413"
+
+# url: "http://localhost:4000"
+url: "http://500sw.github.io"
+
+exclude: [README.md, Rakefile]
+paginate: 16
+permalink: /:title
